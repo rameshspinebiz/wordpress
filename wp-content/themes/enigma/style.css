@@ -2115,7 +2115,7 @@ margin-bottom: 20px;
 	border-radius: 2px;
     text-align: center;
     color: #fafafa;
-    font-size: 25x;
+    font-size: 25px;
     background: #3b3b3b;
     z-index: 9999;
 	-webkit-transition: all ease 0.5s;
@@ -2534,3 +2534,4 @@ body.boxed #header .main-header {
 	margin:0 auto;
 }
 }
+/*test*/
