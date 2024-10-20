@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "v-show-slide": "^1.6.0",
-    "vue": "^2.4.2",
+    "vue": "^3.0.0",
     "vue-clickaway": "^2.1.0",
     "vue-js-toggle-button": "^1.2.3",
     "vue-moment": "^3.2.0",
